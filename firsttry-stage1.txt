@@ -2,3 +2,4 @@ Hellow World
 - memperdalam ilmu wordpress
 - memperdalam ilmu web developer
 - mempelajari mobile developer
+- test
